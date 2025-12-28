@@ -33,9 +33,25 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### 💡 Other Knowledge
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- <p align="left">
+  <a href="https://github.com/Peter-177" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="GitHub" width="25" height="25"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Gemeza" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
+      alt="Codeforces" width="25" height="25"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/rccGWj0E3Q/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"
+      alt="LeetCode" width="25" height="25"/>
+  </a>
+</p>
 - Problem Solving
 
 ---
