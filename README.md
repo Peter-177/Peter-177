@@ -35,16 +35,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### 💡 Other Knowledge
-- <h3>💡 Other Knowledge</h3>
+### 💡 Problem Solving
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="22"/>
-
-
-- Problem Solving
-
-- Problem Solving
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/rccGWj0E3Q/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Gemeza)
 
 ---
 
