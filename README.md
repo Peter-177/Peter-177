@@ -55,7 +55,5 @@
 
 - 💼 GitHub: https://github.com/Peter-177
 - 💬 Open to discussions about **Web, React, JavaScript**
-
 ---
 
-> “Code doesn’t have to be clever. It has to be clear.”
