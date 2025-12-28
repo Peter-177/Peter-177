@@ -37,11 +37,6 @@
 
 ### 💡 Other Knowledge
 - <p align="left">
-  <a href="https://github.com/Peter-177" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      alt="GitHub" width="25" height="25"/>
-  </a>
-  &nbsp;
   <a href="https://codeforces.com/profile/Gemeza" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
       alt="Codeforces" width="25" height="25"/>
