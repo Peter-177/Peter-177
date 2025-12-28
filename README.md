@@ -45,7 +45,6 @@
 ## 📌 What I’m Working On
 
 - 🔨 Building **React projects**
-- 🧠 Understanding **best practices**
 - 📦 Component reusability
 - 🎨 Responsive UI & clean layouts
 
