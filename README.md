@@ -39,7 +39,6 @@
 
 ### 💡 Other Knowledge
 - C++
-- Basics of Back-End concepts
 - Problem Solving
 
 ---
