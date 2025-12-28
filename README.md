@@ -16,7 +16,6 @@
 - 🌍 Web Developer focused on **Front-End**
 - ⚛️ Specialized in **React**
 - 🧠 Strong foundation in **JavaScript**
-- 🎯 Currently improving **real-world projects & clean code**
 - 🛠️ Comfortable working with **Git & GitHub**
 - 📍 Based in Egypt
 
