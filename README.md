@@ -49,9 +49,3 @@
 
 ---
 
-## 📫 Contact Me
-
-- 💼 GitHub: https://github.com/Peter-177
-- 💬 Open to discussions about **Web, React, JavaScript**
----
-
