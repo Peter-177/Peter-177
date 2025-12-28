@@ -51,17 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Peter-177&show_icons=true&theme=react" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-177&layout=compact&theme=react" width="48%" />
-
-</div>
-
----
-
 ## 📫 Contact Me
 
 - 💼 GitHub: https://github.com/Peter-177
