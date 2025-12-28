@@ -36,17 +36,15 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### 💡 Other Knowledge
-- <p align="left">
-  <a href="https://codeforces.com/profile/Gemeza" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
-      alt="Codeforces" width="25" height="25"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/rccGWj0E3Q/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"
-      alt="LeetCode" width="25" height="25"/>
-  </a>
+- <h3>💡 Other Knowledge</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="22"/>
 </p>
+
+- Problem Solving
+
 - Problem Solving
 
 ---
