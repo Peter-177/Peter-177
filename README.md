@@ -38,10 +38,9 @@
 ### 💡 Other Knowledge
 - <h3>💡 Other Knowledge</h3>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="22"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="22"/>
+
 
 - Problem Solving
 
