@@ -34,7 +34,7 @@
 
 ### 💡 Problem Solving
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/rccGWj0E3Q/)
+[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/rccGWj0E3Q/)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Gemeza)
 
 ---
