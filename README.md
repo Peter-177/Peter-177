@@ -15,8 +15,6 @@
 - 👋 My name is **Peter**
 - 🌍 Web Developer focused on **Front-End**
 - ⚛️ Specialized in **React**
-- 🛠️ Comfortable working with **Git & GitHub**
-- 📍 Based in Egypt
 
 ---
 
