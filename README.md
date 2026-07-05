@@ -25,7 +25,7 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=next.js)
+![Next](https://skillicons.dev/icons?i=next)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
